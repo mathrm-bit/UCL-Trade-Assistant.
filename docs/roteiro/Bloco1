@@ -1,0 +1,39 @@
+Bloco 1: Introdução e Problema (0:00 - 0:45)
+Visual: Você na câmera ou sua tela inicial do GitHub.
+
+Fala:
+
+"Fala, pessoal! Tudo certo? Hoje eu vim apresentar o UCL-Trade Assistant, um projeto que desenvolvi para unir duas grandes paixões: a tecnologia e o mercado financeiro.
+ã
+Quem opera no mercado, seja Mini-índice ou PETR4, sabe que cada segundo conta. Digitar comandos ou pesquisar manuais durante o prego é inviável. E se pudesse interagir com uma inteligência artificial usando apenas a voz?"
+
+Bloco 2: A Arquitetura Técnica (0:45 - 1:45)
+Visual: Mostre o repositório no GitHub e passe pelas pastas src/ e data/.
+
+Fala:
+
+"Para construir essa solução, utilizei uma stack moderna de IA. O projeto é dividido em quatro etapas principais:
+
+Captura de Áudio: Uso uma combinação de JavaScript e Python para gravar a voz do usuário diretamente no navegador.
+
+Transcrição com Whisper: O áudio é enviado para o modelo Whisper da OpenAI, que transforma a fala em texto com uma precisão incrível, ignorando ruídos de fundo.
+
+Cérebro com GPT-4: O texto transcrito é processado pela API do ChatGPT. Mas aqui está o diferencial: eu utilizo a pasta data/ do projeto como um 'banco de dados' JSON, fornecendo à IA conhecimentos específicos sobre indicadores como VWAP e Médias Móveis.
+
+Resposta em Voz: Por fim, utilizo o gTTS do Google para converter a resposta técnica em áudio, fechando o ciclo de conversação."
+
+Bloco 3: Demonstração e Diferencial (1:45 - 2:30)
+Visual: Mostre o arquivo conhecimento_mercado.json e o main.py rodando.
+
+Fala:
+
+"O grande destaque aqui não é apenas a tecnologia, mas a organização. No meu repositório, você encontra uma estrutura limpa, com pastas de documentação, roteiros explicativos e um .gitignore bem configurado para garantir a segurança das chaves de API.
+
+Este projeto serve como base para soluções de acessibilidade e assistentes virtuais de alta performance, mostrando como podemos integrar APIs de terceiros para criar ferramentas personalizadas para o mundo real."
+
+Bloco 4: Encerramento (2:30 - 3:00)
+Visual: Sua tela de contato ou LinkedIn.
+
+Fala:
+
+"Esse projeto foi um excelente laboratório para colocar em prática o que venho aprendendo em ADS e automação. Se você quiser conferir o código-fonte e toda a documentação, o link do GitHub está na descrição. Valeu e até a próxima!"
