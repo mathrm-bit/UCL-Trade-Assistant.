@@ -1,0 +1,10 @@
+{
+  "contexto": "UCL-Trade Assistant",
+  "foco": "Mini-índice (WINFUT) e Ações (PETR4)",
+  "estrategias": [
+    "Análise de VWAP",
+    "Médias Móveis de 9 e 20 períodos",
+    "Suporte e Resistência em tempos gráficos de 5min"
+  ],
+  "dica_do_dia": "Gerenciamento de risco é mais importante que o setup."
+}
