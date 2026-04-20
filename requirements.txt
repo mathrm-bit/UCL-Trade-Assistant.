@@ -1,0 +1,5 @@
+openai
+openai-whisper
+gTTS
+python-dotenv
+ipython
